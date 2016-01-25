@@ -1,0 +1,79 @@
+/* Ingresa tu css aqui */
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: content-box;
+}
+
+#contenedor{
+	width: 700px;
+	margin: 20px auto;
+	border:2px solid black;
+	text-align: center;
+}
+
+#perfil img{
+	border-radius: 50%;
+	margin-top:25px;
+	margin-bottom: 5px;
+}
+#perfil{
+	font-size: 20px;
+}
+#perfil p{
+	width: 560px;
+	margin:15px auto;
+	font-size: 20px;
+}
+
+.marco{
+	width: 550px;
+	margin:20px auto;
+}
+.seccion{
+	text-align: left;
+}
+.seccion h2{
+	margin-left: 40px;
+	font-size: 30px;
+}
+.bloque{
+	height: 60px;
+	margin-bottom: 30px;
+	background-color: grey;
+	position: relative;
+}
+
+.bloque p{
+	
+	color:white;
+	font-weight: bold;
+	position: absolute;
+	top: 20px;
+	left:20px;
+}
+
+#uno{
+	width: 500px;
+}
+
+#dos{
+	width:330px;
+}
+#tres{
+	width: 180px;
+}
+
+
+.foto{
+	display: inline-block;
+}
+
+.foto img{
+	width: 160px;
+	height: 152px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+
+}
+
